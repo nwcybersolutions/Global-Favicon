@@ -1,12 +1,11 @@
 <?php
-
 /*
 Plugin Name: Global Favicon
 Plugin URI: https://github.com/nwcybersolutions/Global-Favicon
 Description: Use Favicon Globally throughout site, must set image path below. Also removes back to blog link
 Author: Northwest Cyber Solutions
 Author URI: https://nwcybersolutions.com
-Version: 1.0.0
+Version: 1.0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 Text Domain: Global Favicon
