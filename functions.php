@@ -14,7 +14,7 @@ Domain Path: /languages
 //Global Favicon
 // First, create a function that includes the path to your favicon
 function add_favicon() {
-  	$favicon_url = '/Resources/Images/SET%20ICON%20HERE.png';
+  	$favicon_url = '/Resources/Files/CFG-Icon.png';
 	echo '<link rel="shortcut icon" href="' . $favicon_url . '" />';
 }
   
